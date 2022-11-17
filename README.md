@@ -14,7 +14,10 @@
 - 📫 How to reach me **ishuklaji100@gmail.com**
 
 - ⚡ Fun fact **I do what I enjoy doing !**
+
 - Check out my port folio **https://ishuklaji.github.io/portfolio/**
+
+- **Learning new Skills and applying them is what motivates me in my life .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
