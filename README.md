@@ -1,6 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
 <h1 align="center">Hi 👋, I'm Ish Bandhu Shukla</h1>
-<h3 align="center">A passionate full stack developer from Delhi , India. A tech enthusiat with knowledge of MERN stack , Java , C++ . As a problem solver who loves facing challenges in my work, I'm passionate and ambitious about my work. Other than the tech I love watching movies, reading and playing video games.</h3>
+<h3 align="center">A passionate frontend developer from Delhi , India</h3>
+
 <img align="right" alt"Coding" width="400" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishuklaji&label=Profile%20views&color=0e75b6&style=flat" alt="ishuklaji" /> </p>
@@ -15,7 +16,7 @@
 
 - ⚡ Fun fact **I do what I enjoy doing !**
 
-- Check out my port folio **https://ishuklaji.github.io/portfolio/**
+- Check out my port folio **<https://ishuklaji.github.io/portfolio/>**
 
 - **Learning new Skills and applying them is what motivates me in my life .**
 
@@ -23,6 +24,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ish b shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ish b shukla" height="30" width="40" /></a>
 <a href="https://codesandbox.com/ishuklaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ishuklaji" height="30" width="40" /></a>
+<a href="https://hashnode.com/@ishuklaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ishuklaji" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishuklaji&show_icons=true&locale=en" alt="ishuklaji" /></p>
 
-<p><img align="center" src="(https://github-readme-streak-stats.herokuapp.com/?user=ishuklaji&)" alt="ishuklaji" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishuklaji&" alt="ishuklaji" /></p>
