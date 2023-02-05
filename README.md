@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **MERN, JAVA DSA , HTML,CSS,JS**
+- 💬 Ask me about **MERN, JAVA , C++ , DSA , HTML,CSS,JS**
 
 - 📫 How to reach me **ishuklaji100@gmail.com**
 
