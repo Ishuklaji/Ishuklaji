@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I do what I enjoy doing !**
 
-- Check out my port folio **<https://ishuklaji.github.io/portfolio/>**
+- Check out my Portfolio **<https://ishuklaji.github.io/portfolio/>**
 
 - **Learning new Skills and applying them is what motivates me in my life .**
 
