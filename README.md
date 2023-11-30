@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently working as a **Full Stack Developer**
 
-- 💬 Ask me about **MERN , JAVA , C++ , DSA , HTML , CSS , JS , TS**
+- 💬 Ask me about **MERN , JAVA , C++ , DSA , HTML , CSS , JS , TS , AWS**
 
 - 📫 How to reach me **ishuklaji100@gmail.com**
 
