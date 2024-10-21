@@ -1,4 +1,4 @@
-![MasterHead]([https://i.giphy.com/RbDKaczqWovIugyJmW.webp](https://c.tenor.com/UttC4AITYR4AAAAd/tenor.gif))
+![MasterHead](https://c.tenor.com/UttC4AITYR4AAAAd/tenor.gif)
 <h1 align="center">Hi 👋, I'm Ish Bandhu Shukla</h1>
 <h3 align="center">A passionate Full Stack Developer from Delhi , India</h3>
 
