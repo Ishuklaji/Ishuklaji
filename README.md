@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 Full Stack Developer with 2+ years of experience<br>⚡ Specialized in React.js, Next.js, Node.js & MERN Stack<br>🚀 Built production-level platforms like CorpVue and Finconic<br>📈 Currently learning advanced TypeScript, System Design & Cloud Architecture<br>🇩🇪 Based in Berlin and open to Frontend / Full Stack opportunities
+💼 Full Stack Developer with 2+ years of experience<br>⚡ Specialized in React.js, Next.js, Node.js & MERN Stack<br>🚀 Built production-level platforms like CorpVue and Finconic<br>📈 Currently learning advanced TypeScript, System Design & Cloud Architecture<br>🇩🇪 Based in Berlin, Germany and open to Frontend / Full Stack opportunities
 
 
 ## 🌐 Socials:
