@@ -21,7 +21,7 @@
 <p>
   <a href="https://www.linkedin.com/in/ish-bandhu-shukla-016a34214/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ishuklaji100@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://ishuklaji.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white" /></a>
+  <a href="https://ishuklaji-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white" /></a>
 </p>
 
 ---
