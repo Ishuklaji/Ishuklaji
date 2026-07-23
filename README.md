@@ -16,7 +16,7 @@
 - 🤖 Building **AI-powered products** — agentic workflows, LLM integration & Generative AI
 - 🏗️ Shipped production platforms in **fintech & enterprise SaaS**, from concept to deployment
 - 📚 Currently deepening **System Design & Cloud Architecture**
-- 🤝 Open to **Frontend / Full Stack** opportunities — based in Berlin, no sponsorship required
+- 🤝 Open to **Frontend / Full Stack** opportunities — based in Germany, no sponsorship required
 
 <p>
   <a href="https://www.linkedin.com/in/ish-bandhu-shukla-016a34214/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
