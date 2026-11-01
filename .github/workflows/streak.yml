@@ -1,0 +1,33 @@
+name: Update streak card
+
+on:
+  schedule:
+    - cron: "30 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [scripts/streak.mjs, .github/workflows/streak.yml]
+
+permissions:
+  contents: write
+
+jobs:
+  streak:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Generate streak card
+        env:
+          # STREAK_TOKEN (a PAT) also sees private contributions; GITHUB_TOKEN is the fallback.
+          GH_TOKEN: ${{ secrets.STREAK_TOKEN || secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: node scripts/streak.mjs
+      - name: Commit card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/streak.svg
+          git diff --cached --quiet || (git commit -m "Update streak card" && git push)

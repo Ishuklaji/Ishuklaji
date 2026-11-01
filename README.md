@@ -121,7 +121,7 @@
   <img height="165em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ishuklaji&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ishuklaji&theme=default&hide_border=false" />
+  <img src="./assets/streak.svg" alt="GitHub streak" />
 </p>
 
 ### ✍️ Random Dev Quote
