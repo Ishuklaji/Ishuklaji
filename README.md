@@ -35,58 +35,10 @@ I'm a Full Stack Developer with **3+ years of experience** building SaaS, fintec
 
 ---
 
-### 🌟 Featured Projects
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-#### 🛠️ Forgey
-**Agentic AI App Builder**
-
-Generates apps through a Vercel AI SDK pipeline with streamed responses, Prisma/PostgreSQL project storage, per-user isolation and a live preview.
-
-`Next.js` `TypeScript` `Vercel AI SDK` `Prisma` `PostgreSQL` `Clerk`
-
-<a href="https://forgey.vercel.app"><img src="https://img.shields.io/badge/Live-2ea44f?style=flat-square" /></a>
-<a href="https://github.com/Ishuklaji/forgey"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github" /></a>
-
-</td>
-<td width="33%" valign="top">
-
-#### 🎤 Prepty
-**AI Interview Platform**
-
-Scheduling in Supabase, live video rooms with Stream SDK, interviewer/interviewee roles, and Arcjet rate limiting on AI question generation.
-
-`Next.js` `Supabase` `Stream SDK` `Clerk` `Arcjet` `TypeScript`
-
-<a href="https://prepty.vercel.app"><img src="https://img.shields.io/badge/Live-2ea44f?style=flat-square" /></a>
-<a href="https://github.com/Ishuklaji/prepty"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github" /></a>
-
-</td>
-<td width="33%" valign="top">
-
-#### 💬 La Charla
-**Real-Time Chat App**
-
-Socket.io rooms with presence and typing indicators, MongoDB schemas for users, chats and messages, and JWT guarding both REST and sockets.
-
-`React` `Node.js` `Express` `MongoDB` `Socket.io` `JWT`
-
-<a href="https://lacharla.vercel.app"><img src="https://img.shields.io/badge/Live-2ea44f?style=flat-square" /></a>
-<a href="https://github.com/Ishuklaji/MyChat"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github" /></a>
-
-</td>
-</tr>
-</table>
-
----
-
 ### 💼 Experience
 
 **Independent Developer** · Self-Employed · Berlin · *Nov 2024 – Present*
-- Shipped three production apps end to end (Forgey, Prepty, La Charla) on Next.js, TypeScript, Node.js, PostgreSQL and MongoDB, deployed on Vercel with GitHub CI/CD
+- Shipped three production apps end to end (see my pinned repos below) on Next.js, TypeScript, Node.js, PostgreSQL and MongoDB, deployed on Vercel with GitHub CI/CD
 
 **Full Stack Developer** · VFPL Capital Pvt. Ltd. · Delhi · *Sept 2023 – Oct 2024*
 - Built **CorpVue** (enterprise SaaS) and **Finconic** (fintech) from scratch: 5+ modules with multi-role dashboards, document management, and loan and investment workflows
