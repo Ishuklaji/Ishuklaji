@@ -60,15 +60,88 @@ I'm a Full Stack Developer with **3+ years of experience** building SaaS, fintec
 
 ### 🛠️ Tech Stack
 
-| Area | Technologies |
-|---|---|
-| **Frontend** | <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,vite" /> |
-| **UI** | <img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap" /> &nbsp; shadcn/ui · Chakra UI · Framer Motion |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" /> &nbsp; REST · Socket.io · WebSockets · JWT · RBAC |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase" /> &nbsp; Mongoose · Neon DB · Aggregations |
-| **AI** | Vercel AI SDK · LLM Integration · Agentic Workflows · Prompt Engineering |
-| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,vercel,docker,githubactions" /> &nbsp; EC2 · S3 · CI/CD |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,jest,postman,vscode" /> &nbsp; JIRA · Agile/Scrum · Code Review |
+**Frontend**
+<table>
+<tr>
+<td align="center" width="80"><img width="40" src="https://skillicons.dev/icons?i=js" /><br>JavaScript</td>
+<td align="center" width="80"><img width="40" src="https://skillicons.dev/icons?i=ts" /><br>TypeScript</td>
+<td align="center" width="80"><img width="40" src="https://skillicons.dev/icons?i=react" /><br>React</td>
+<td align="center" width="80"><img width="40" src="https://skillicons.dev/icons?i=nextjs" /><br>Next.js</td>
+<td align="center" width="80"><img width="40" src="https://skillicons.dev/icons?i=redux" /><br>Redux</td>
+<td align="center" width="80"><img width="40" src="https://skillicons.dev/icons?i=html" /><br>HTML5</td>
+<td align="center" width="80"><img width="40" src="https://skillicons.dev/icons?i=css" /><br>CSS3</td>
+<td align="center" width="80"><img width="40" src="https://skillicons.dev/icons?i=vite" /><br>Vite</td>
+</tr>
+</table>
+
+**UI Libraries**
+<table>
+<tr>
+<td align="center" width="80"><img width="40" src="https://skillicons.dev/icons?i=tailwind" /><br>Tailwind</td>
+<td align="center" width="80"><img width="40" src="https://skillicons.dev/icons?i=materialui" /><br>MUI</td>
+<td align="center" width="80"><img width="40" src="https://skillicons.dev/icons?i=bootstrap" /><br>Bootstrap</td>
+</tr>
+</table>
+
+**Backend**
+<table>
+<tr>
+<td align="center" width="80"><img width="40" src="https://skillicons.dev/icons?i=nodejs" /><br>Node.js</td>
+<td align="center" width="80"><img width="40" src="https://skillicons.dev/icons?i=express" /><br>Express.js</td>
+<td align="center" width="80"><img width="40" src="https://skillicons.dev/icons?i=prisma" /><br>Prisma</td>
+</tr>
+</table>
+
+**Databases**
+<table>
+<tr>
+<td align="center" width="80"><img width="40" src="https://skillicons.dev/icons?i=mongodb" /><br>MongoDB</td>
+<td align="center" width="80"><img width="40" src="https://skillicons.dev/icons?i=postgres" /><br>PostgreSQL</td>
+<td align="center" width="80"><img width="40" src="https://skillicons.dev/icons?i=supabase" /><br>Supabase</td>
+</tr>
+</table>
+
+**Cloud & DevOps**
+<table>
+<tr>
+<td align="center" width="80"><img width="40" src="https://skillicons.dev/icons?i=aws" /><br>AWS</td>
+<td align="center" width="80"><img width="40" src="https://skillicons.dev/icons?i=vercel" /><br>Vercel</td>
+<td align="center" width="80"><img width="40" src="https://skillicons.dev/icons?i=docker" /><br>Docker</td>
+<td align="center" width="80"><img width="40" src="https://skillicons.dev/icons?i=githubactions" /><br>Actions</td>
+</tr>
+</table>
+
+**Testing & Tools**
+<table>
+<tr>
+<td align="center" width="80"><img width="40" src="https://skillicons.dev/icons?i=git" /><br>Git</td>
+<td align="center" width="80"><img width="40" src="https://skillicons.dev/icons?i=github" /><br>GitHub</td>
+<td align="center" width="80"><img width="40" src="https://skillicons.dev/icons?i=jest" /><br>Jest</td>
+<td align="center" width="80"><img width="40" src="https://skillicons.dev/icons?i=postman" /><br>Postman</td>
+<td align="center" width="80"><img width="40" src="https://skillicons.dev/icons?i=vscode" /><br>VS Code</td>
+</tr>
+</table>
+
+**Also working with**
+<br>
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square" />
+<img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/RBAC-4B3263?style=flat-square" />
+<img src="https://img.shields.io/badge/Clerk_Auth-6C47FF?style=flat-square&logo=clerk&logoColor=white" />
+<img src="https://img.shields.io/badge/Stream_SDK-005FFF?style=flat-square" />
+<img src="https://img.shields.io/badge/Arcjet-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" />
+<img src="https://img.shields.io/badge/Neon_DB-00E599?style=flat-square" />
+<img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM_Integration-412991?style=flat-square" />
+<img src="https://img.shields.io/badge/Agentic_Workflows-412991?style=flat-square" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-412991?style=flat-square" />
+<img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Agile%2FScrum-0E75B6?style=flat-square" />
 
 ---
 
